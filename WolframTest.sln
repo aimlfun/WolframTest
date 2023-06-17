@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolframTest", "WolframTest.csproj", "{16C1AE89-7533-4081-BF81-F304623A925B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C1AE89-7533-4081-BF81-F304623A925B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C1AE89-7533-4081-BF81-F304623A925B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C1AE89-7533-4081-BF81-F304623A925B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C1AE89-7533-4081-BF81-F304623A925B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF98017-3AF4-45A1-855F-C5C08C7FA2DA}
+	EndGlobalSection
+EndGlobal
